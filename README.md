@@ -14,9 +14,7 @@
 
 ## 👤 About Me
 
-- 🎓 성결대학교 컴퓨터공학과 **수석 졸업**
 - 🚀 삼성 청년 SW·AI 아카데미(SSAFY) 14기 수료
-- 📄 SCI(E) 논문 게재 — *Deep Learning-based Wireless Signal Classification in the IoT Environment* (Computers, Materials & Continua, 2022)
 - 📜 정보처리기사 · OPIc IM1
 
 <br>
