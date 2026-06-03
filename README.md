@@ -78,20 +78,6 @@
 
 <br>
 
-## 📈 GitHub 통계
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songhj0427&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhj0427&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=songhj0427&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
-
 ## 📫 연락하기
 
 [![Gmail Badge](https://img.shields.io/badge/427shg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:427shg@gmail.com)
